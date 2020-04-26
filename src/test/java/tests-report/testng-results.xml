@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="188" started-at="2020-04-26T01:42:43Z" finished-at="2020-04-26T01:42:43Z">
+    <groups>
+    </groups>
+    <test name="Nopackage" duration-ms="188" started-at="2020-04-26T01:42:43Z" finished-at="2020-04-26T01:42:43Z">
+      <class name="TestNGTests">
+        <test-method status="PASS" signature="printMessage()[pri:0, instance:TestNGTests@609db43b]" name="printMessage" is-config="true" duration-ms="49" started-at="2020-04-26T04:42:43Z" finished-at="2020-04-26T04:42:43Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- printMessage -->
+        <test-method status="PASS" signature="toStringShouldReturnPeopleNamesSeparatedByComma()[pri:0, instance:TestNGTests@609db43b]" name="toStringShouldReturnPeopleNamesSeparatedByComma" duration-ms="32" started-at="2020-04-26T04:42:43Z" finished-at="2020-04-26T04:42:43Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- toStringShouldReturnPeopleNamesSeparatedByComma -->
+        <test-method status="PASS" signature="printMessage()[pri:0, instance:TestNGTests@609db43b]" name="printMessage" is-config="true" duration-ms="1" started-at="2020-04-26T04:42:43Z" finished-at="2020-04-26T04:42:43Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- printMessage -->
+        <test-method status="PASS" signature="getOldestPersonShouldReturnOldestPerson()[pri:0, instance:TestNGTests@609db43b]" name="getOldestPersonShouldReturnOldestPerson" duration-ms="35" started-at="2020-04-26T04:42:43Z" finished-at="2020-04-26T04:42:43Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getOldestPersonShouldReturnOldestPerson -->
+        <test-method status="PASS" signature="printMessage()[pri:0, instance:TestNGTests@609db43b]" name="printMessage" is-config="true" duration-ms="2" started-at="2020-04-26T04:42:43Z" finished-at="2020-04-26T04:42:43Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- printMessage -->
+        <test-method status="PASS" signature="getKidNameShouldReturnNamesOfYoungerThan18()[pri:0, instance:TestNGTests@609db43b]" name="getKidNameShouldReturnNamesOfYoungerThan18" duration-ms="30" started-at="2020-04-26T04:42:43Z" finished-at="2020-04-26T04:42:43Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getKidNameShouldReturnNamesOfYoungerThan18 -->
+        <test-method status="PASS" signature="printLastMessage()[pri:0, instance:TestNGTests@609db43b]" name="printLastMessage" is-config="true" duration-ms="2" started-at="2020-04-26T04:42:43Z" finished-at="2020-04-26T04:42:43Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- printLastMessage -->
+      </class> <!-- TestNGTests -->
+    </test> <!-- Nopackage -->
+  </suite> <!-- Suite -->
+</testng-results>
